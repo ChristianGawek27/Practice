@@ -12,6 +12,9 @@
         <div id="MainDiv" runat="server">
             <asp:Label runat="server" ID="MainLabel">This is the title for the Github Page</asp:Label><br />
             <asp:Label runat="server" ID="SecondLabel">This is the second label for the Github Page</asp:Label><br />
+
+            #Adding a label that is based on the remote repository, not the local one
+            <asp:Label runat="server" ID="ThirdLabel"> This is the third label in the Practice Page</asp:Label><br />
         </div>
     </form>
 </body>
