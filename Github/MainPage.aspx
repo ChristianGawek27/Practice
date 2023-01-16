@@ -12,6 +12,10 @@
         <div id="MainDiv" runat="server">
             <asp:Label runat="server" ID="MainLabel">This is the title for the Github Page</asp:Label><br />
             <asp:Label runat="server" ID="SecondLabel">This is the second label for the Github Page</asp:Label><br />
+
+            #Adding to the main Page of the of the Practice File
+
+            <asp:Label runat="server" ID="ThirdLabel">This is the third label for the Practice Page</asp:Label><br />
         </div>
     </form>
 </body>
