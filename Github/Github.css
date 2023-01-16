@@ -1,0 +1,12 @@
+﻿body {
+    background-color:aqua;
+}
+#MainDiv{
+    border: 2px solid black;
+}
+#MainLabel {
+    text-align: center;
+}
+#SecondLabel{
+    text-align: center;
+}
